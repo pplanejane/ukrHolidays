@@ -1,0 +1,1 @@
+A simple one-page website that sends a GET request with API to a free service holidaysapi and gets an answer, edits it and displays it on the page. Own design, HTML, CSS and JS code. Implemented update information when you click on the button.
